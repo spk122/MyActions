@@ -10,6 +10,7 @@
 let shareCodes = [
   '3YcJMrfh8OClRVhq5TowKA==@kiPudUhBb7pIikDNHQC1lw==@yTm0YyioEekFq34kSK0X6w==@B7wQcNgYSwLNQd3goiAu6g==@exVjdAlWg7W-UBq_rovWmA==@F8sj4kbVbt72fsgq3yAY9Q==@V9dZyRpXEraMKNvs-D8aVNxV93T0LsSlZfhrVVtpFLU=',//账号一的好友shareCode,不同好友中间用@符号隔开
   '3YcJMrfh8OClRVhq5TowKA==@kiPudUhBb7pIikDNHQC1lw==@yTm0YyioEekFq34kSK0X6w==@B7wQcNgYSwLNQd3goiAu6g==@exVjdAlWg7W-UBq_rovWmA==@F8sj4kbVbt72fsgq3yAY9Q==@V9dZyRpXEraMKNvs-D8aVNxV93T0LsSlZfhrVVtpFLU=',//账号二的好友shareCode，不同好友中间用@符号隔开
+  '3AboyaS3opysJzstkILffw==@WcH_xMYHAcCNPtxzqm0j5Q==@AZd7DK7n4sYXNVqQo_t4QQ==@J12NNt0b6sTrYYVUCnadEA==',
 ]
 // 判断github action里面是否有京喜工厂互助码
 if (process.env.DREAM_FACTORY_SHARE_CODES) {
